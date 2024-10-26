@@ -1,0 +1,11 @@
+"Indian Rupee (INR)",
+					"Australian Dollar (AUD)",
+				    "Brazilian Real (BRL)",
+				    "British Pound Sterling (GBP)",
+				    "Canadian Dollar (CAD)",
+				    "Chinese Yuan (CNY)",
+				    "Euro (EUR)",
+				    "Japanese Yen (JPY)",
+				    "Swiss Franc (CHF)",
+				    "United States Dollar (USD)"
+			
