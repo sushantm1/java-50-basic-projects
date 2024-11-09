@@ -1,7 +1,0 @@
-package pro_50_beginner_lvl;
-
-public class Currency_Convertor {
-	public static void main(String[] args) {
-		
-	}
-}

@@ -259,8 +259,6 @@ public class Currency_conv_main {
 			}
 			);
 
-			
-			
 			//exit
 			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 			frame.setVisible(true);
